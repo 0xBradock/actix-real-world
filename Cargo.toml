@@ -1,5 +1,5 @@
 [package]
-name = "scryfall"
+name = "actix-real-world"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 actix-web = "4.4.1"
-config = "0.13.4"
+config = "0.14.0"
 serde = { version = "1.0.195", features = ["derive"] }

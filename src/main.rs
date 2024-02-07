@@ -1,4 +1,4 @@
-use scryfall::{config, run::run};
+use actix_real_world::{config, run::run};
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {

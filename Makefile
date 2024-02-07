@@ -1,6 +1,6 @@
 DB_USER := postgres
 DB_PASSWORD := password
-DB_NAME := scryfall
+DB_NAME := arw
 DB_PORT := 5432
 
 postgres-up:
