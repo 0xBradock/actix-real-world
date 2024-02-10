@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://codecov.io/gh/0xBradock/actix-real-world" > 
+ <img src="https://codecov.io/gh/0xBradock/actix-real-world/graph/badge.svg?token=79E40OWJ2E"/> 
+ </a>
   <a href="https://github.com/0xBradock/actix-real-world/blob/master/openapi.yaml"><img src="https://img.shields.io/badge/Docs-OpenAPI%203.0-success" alt="OpenAPI Docs"></a>
   <a href="https://github.com/qdrant/qdrant/blob/master/LICENSE"><img src="https://img.shields.io/github/license/0xBradock/actix-real-world" alt="MIT"></a>
   
