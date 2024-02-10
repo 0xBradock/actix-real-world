@@ -21,7 +21,9 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
 
       - name: Run tests
-        run: cargo llvm-cov --codecov
+        run: |
+          cargo install cargo-llvm-cov
+          cargo llvm-cov --codecov
 
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v4.0.1
