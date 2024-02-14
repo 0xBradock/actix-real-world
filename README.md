@@ -12,7 +12,6 @@
  </a>
   <a href="https://github.com/0xBradock/actix-real-world/blob/master/openapi.yaml"><img src="https://img.shields.io/badge/Docs-OpenAPI%203.0-success" alt="OpenAPI Docs"></a>
   <a href="https://github.com/qdrant/qdrant/blob/master/LICENSE"><img src="https://img.shields.io/github/license/0xBradock/actix-real-world" alt="MIT"></a>
-  
 </p>
 
 
